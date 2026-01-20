@@ -1,0 +1,14 @@
+{
+  "analysis_date": "2026-01-20",
+  "nss_us_rmse": 0.0015,
+  "nss_br_rmse": 0.0008,
+  "spread_stats": {
+    "mean": 0.0560,
+    "min": 0.0495,
+    "max": 0.0650,
+    "std": 0.0045
+  },
+  "real_carry_10y_br": 0.0530,
+  "bond_call_10y_br_1y": 0.0073,
+  "bond_put_10y_br_1y": 0.0071
+}
